@@ -159,5 +159,3 @@ This project gave me practical experience with:
 ## Project Status
 
 Fatal Echo is a completed personal project and is preserved here as a portfolio project.
-
-The repository was
